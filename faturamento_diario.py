@@ -13,7 +13,7 @@ https://www.linkedin.com/in/giuliamf/
 """
 import json
 
-with open("faturamento_diario.json", "r") as file:
+with open("dados.json", "r") as file:
     faturamento_mensal = json.load(file)
 
 faturamento_diario = list(faturamento_mensal.values())
