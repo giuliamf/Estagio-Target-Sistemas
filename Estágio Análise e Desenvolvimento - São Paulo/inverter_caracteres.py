@@ -11,7 +11,7 @@ https://www.linkedin.com/in/giuliamf/
 string1 = input("Digite uma string para inverter seus caracteres com a primeira opção: ")
 print(string1[::-1])
 
-# Outra função:
+# Outra opção:
 
 
 def inverter_caracteres(string):
